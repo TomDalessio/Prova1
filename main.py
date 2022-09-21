@@ -1,0 +1,1 @@
+print("NON SO CHE SCRIVE")
