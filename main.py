@@ -1,1 +1,1 @@
-print("NON SO CHE SCRIVE")
+print("sTO A FA DELLE PROVE")
